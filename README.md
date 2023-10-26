@@ -1,2 +1,0 @@
-# Brain Tumor CNN
- 
